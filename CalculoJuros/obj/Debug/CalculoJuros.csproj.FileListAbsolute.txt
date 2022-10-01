@@ -1,0 +1,63 @@
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe.config
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.pdb
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form1.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.exe
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.pdb
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form2.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form3.resources
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.AssemblyReference.cache
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form1.resources
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form2.resources
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form3.resources
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Properties.Resources.resources
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.GenerateResource.cache
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.CoreCompileInputs.cache
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.exe
+D:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.pdb
+D:\C#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe.config
+D:\C#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe
+D:\C#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.pdb
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe.config
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.pdb
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.AssemblyReference.cache
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form1.resources
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form2.resources
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form3.resources
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Properties.Resources.resources
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.GenerateResource.cache
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.CoreCompileInputs.cache
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.exe
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.pdb
+D:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Ajuda.resources
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe.config
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.pdb
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.AssemblyReference.cache
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Ajuda.resources
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form1.resources
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form2.resources
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form3.resources
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Properties.Resources.resources
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.GenerateResource.cache
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.CoreCompileInputs.cache
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.exe
+E:\C#\Nova pasta (2)\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.pdb
+E:\C#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe.config
+E:\C#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.exe
+E:\C#\CalculoJuros\CalculoJuros\bin\Debug\CalculoJuros.pdb
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.AssemblyReference.cache
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Ajuda.resources
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form1.resources
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form2.resources
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Form3.resources
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.Properties.Resources.resources
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.GenerateResource.cache
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.csproj.CoreCompileInputs.cache
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.exe
+E:\C#\CalculoJuros\CalculoJuros\obj\Debug\CalculoJuros.pdb
